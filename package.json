@@ -1,0 +1,10 @@
+{
+  "name": "hitchsafe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HitchSafe - Safety and Intelligence App for Hitchhikers",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "vercel-build": "cd frontend && npm install && npm run build"
+  }
+}
